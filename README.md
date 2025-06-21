@@ -1,2 +1,2 @@
-# Temi-s-Portfolio
+# Temi's-Portfolio
 Analytics Portfolio
